@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+#title{
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    color: white;
+    text-align: center;
+}
+#photo{
+    border: 5px solid white;
+    width: 100%;
+}
+#para{
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    color: white;
+    text-align: center;
+}
+div{
+    width: 50%;
+    margin-left:25%;
+    margin-top: 15px;
+    font-size: 20px;
+}
